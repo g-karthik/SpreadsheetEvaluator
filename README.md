@@ -1,6 +1,6 @@
 # SpreadsheetEvaluator
 
-**Background**: The rows in a spreadsheet are labelled from A-Z and columns are numbered from 1. Thus, if there are 3 rows and 2 columns, the cells are denoted by A1, A2, B1, B2, C1, C2.
+**Background**: The rows in a spreadsheet are labelled using the letters A-Z and columns are numbered from 1. Thus, if there are 3 rows and 2 columns, the cells are denoted by A1, A2, B1, B2, C1, C2.
 
 **I/O**:
 
